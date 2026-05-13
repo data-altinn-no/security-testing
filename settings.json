@@ -1,15 +1,5 @@
 {
-  "ConnectionStrings": {
-    "Sql": "Server=tcp:prod.database.windows.net;User Id=admin;Password=SuperSecretPassword123!;"
-  },
   "GitHub": {
-    "Token": "ghp_1234567890abcdefghijklmnopqrstuvwxyz"
-  },
-  "Azure": {
-    "StorageKey": "DefaultEndpointsProtocol=https;AccountName=myaccount;AccountKey=abcd1234fakekey5678=="
-  },
-  "AWS": {
-    "AccessKeyId": "AKIA1234567890ABCD",
-    "SecretAccessKey": "fakeSecretKeyExample1234567890"
+    "Token": "github_pat_11ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890abcdef"
   }
 }
